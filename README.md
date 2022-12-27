@@ -1,4 +1,4 @@
-# 🙋 About Me:
+# 👋 About Me:
 💻 Full Stack Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I’m currently learning ExpressJS, Typescript and Styled-Components
 
 
