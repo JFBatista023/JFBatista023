@@ -1,5 +1,5 @@
 # 👋 About Me:
-💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I’m currently learning ExpressJS and Typescript.
+💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I’m currently learning NestJS and Typescript.
 
 
 ## 🌐 Socials:
