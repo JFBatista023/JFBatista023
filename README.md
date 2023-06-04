@@ -1,5 +1,5 @@
 # 👋 About Me:
-💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I am currently learning NestJS and Typescript as well as brushing up on Django Rest skills.
+💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I am currently learning Typescript and Tailwind as well as brushing up on Django Rest skills.
 
 
 ## 🌐 Socials:
