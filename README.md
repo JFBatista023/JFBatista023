@@ -1,6 +1,5 @@
 # 👋 About Me:
-💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I am currently learning Typescript and Tailwind as well as brushing up on Django Rest skills.
-
+💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>🎈 20 years<br>✅ I am currently learning Typescript and NestJS
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_filipej023/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-filipe-batista-4b3640212/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:joaofilipeb045@gmail.com)](mailto:joaofilipeb045@gmail.com/)
