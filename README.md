@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joaofilipeb045@gmail.com)](mailto:joaofilipeb045@gmail.com/)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,kotlin,androidstudio,spring,nestjs,django,react,nextjs,materialui,postgres,mysql,linux,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,kotlin,androidstudio,spring,nestjs,django,react,nextjs,materialui,postgres,mysql,linux,git&perline=7)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JFBatista023&theme=blue-green&hide_border=false)
