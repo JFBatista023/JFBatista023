@@ -1,5 +1,5 @@
 # 👋 About Me:
-💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí<br>✅ I am currently learning Spring Boot and Android Development
+💻 Backend Developer<br>🎓 Computer Science Student at the Federal University of Piauí
 
 # 🌐 Socials:
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-filipe-batista-4b3640212/)
